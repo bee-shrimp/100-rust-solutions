@@ -14,11 +14,11 @@ Track your progress as you solve each problem. Update this file as you complete 
 ## 🟢 Beginner (1-35)
 
 ### Basic Syntax & Math (1-15)
-- [ ] 001 - Two Sum
-- [ ] 002 - Reverse String
-- [ ] 003 - Palindrome Number
-- [ ] 004 - FizzBuzz
-- [ ] 005 - Fibonacci Number
+- [x] 001 - Two Sum
+- [x] 002 - Reverse String
+- [x] 003 - Palindrome Number
+- [x] 004 - FizzBuzz
+- [x] 005 - Fibonacci Number
 - [ ] 006 - Factorial
 - [ ] 007 - Count Digits
 - [ ] 008 - Sum of Array
