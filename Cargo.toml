@@ -5,3 +5,7 @@ edition = "2021"
 description = "Solutions for 100 Rust Interview Problems"
 
 [dependencies]
+
+[lints.rust]
+unused_imports = "allow"
+dead_code = "allow"
