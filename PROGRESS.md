@@ -19,14 +19,14 @@ Track your progress as you solve each problem. Update this file as you complete 
 - [x] 003 - Palindrome Number
 - [x] 004 - FizzBuzz
 - [x] 005 - Fibonacci Number
-- [ ] 006 - Factorial
-- [ ] 007 - Count Digits
-- [ ] 008 - Sum of Array
-- [ ] 009 - Find Maximum
-- [ ] 010 - Find Minimum
-- [ ] 011 - Even or Odd
-- [ ] 012 - Prime Number Check
-- [ ] 013 - Leap Year
+- [x] 006 - Factorial
+- [x] 007 - Count Digits
+- [x] 008 - Sum of Array
+- [x] 009 - Find Maximum
+- [x] 010 - Find Minimum
+- [x] 011 - Even or Odd
+- [x] 012 - Prime Number Check
+- [x] 013 - Leap Year
 - [ ] 014 - Celsius to Fahrenheit
 - [ ] 015 - Swap Two Numbers
 
