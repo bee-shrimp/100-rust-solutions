@@ -27,11 +27,11 @@ Track your progress as you solve each problem. Update this file as you complete 
 - [x] 011 - Even or Odd
 - [x] 012 - Prime Number Check
 - [x] 013 - Leap Year
-- [ ] 014 - Celsius to Fahrenheit
-- [ ] 015 - Swap Two Numbers
+- [x] 014 - Celsius to Fahrenheit
+- [x] 015 - Swap Two Numbers
 
 ### Arrays & Strings (16-35)
-- [ ] 016 - Reverse Integer
+- [x] 016 - Reverse Integer
 - [ ] 017 - Count Vowels
 - [ ] 018 - Remove Duplicates from Sorted Array
 - [ ] 019 - Merge Two Sorted Arrays
