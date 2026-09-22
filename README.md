@@ -2,43 +2,13 @@
 
 # 🦀 100 Rust Problems - Solutions
 
-[![Rust](https://img.shields.io/badge/Rust-1.75+-orange?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
-[![Problems](https://img.shields.io/badge/Problems-100-green?style=for-the-badge)]()
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
 
-**My personal solutions for the [100 Rust Interview Problems](https://github.com/aarambh-darshan/100-rust-problems)**
+**My personal solutions for the [100 Rust Interview Problems](https://github.com/aarambh-darshan/100-rust-problems) by [Darshan Vichhi](https://github.com/aarambh-darshan)**
 
-*Complete solutions with explanations, test cases, and complexity analysis*
 
-[📚 Problems](#-problem-categories) • [🚀 Quick Start](#-quick-start) • [� Progress](#-progress-tracker) • [🤝 Contributing](#-contributing)
+[📚 Problems](#-problem-categories) • [🚀Running Solutions](#-running-solutions) • [� Progress](#-progress-tracker) • [🤝 Contributing](#-contributing)
 
 </div>
-
----
-
-## 🎯 Challenge Yourself!
-
-> **🚨 IMPORTANT: This repository is for practicing and learning Rust!**
->
-> 1. **Fork** this repository to your own GitHub account
-> 2. **Solve** each problem **BY YOURSELF** — No AI assistance!
-> 3. **Track** your progress in [PROGRESS.md](PROGRESS.md)
-> 4. **Learn** from your mistakes and improve your skills
->
-> 🧠 **The real learning happens when YOU solve the problems!**
-> Using AI defeats the purpose of practice.
-
----
-
-## ✨ Features
-
-- 🎯 **100 Curated Problems** — From basic syntax to advanced algorithms
-- 📝 **Clean & Idiomatic Rust** — Following best practices and conventions
-- 🧪 **Full Test Coverage** — Every solution includes test cases
-- 📈 **Complexity Analysis** — Time & space complexity for each solution
-- 🔗 **Problem Links** — Direct links to problem descriptions
-- 📁 **Organized Structure** — Easy navigation by difficulty and category
 
 ---
 
@@ -71,24 +41,7 @@ rust-100-problems/
 
 ---
 
-## 🚀 Quick Start
-
-### Prerequisites
-
-- [Rust](https://rustup.rs/) 1.75 or later
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/aarambh-darshan/rust-100-solutions.git
-cd rust-100-solutions
-
-# Build the project
-cargo build
-```
-
-### Running Solutions
+## 🚀 Running Solutions
 
 ```bash
 # Run all tests
@@ -297,7 +250,7 @@ cargo test p001 -- --nocapture
 
 ## 📊 Progress Tracker
 
-📋 **Track your progress:** [PROGRESS.md](PROGRESS.md)
+📋 [PROGRESS.md](PROGRESS.md)
 
 | Difficulty | Total | Completed | Progress |
 |:----------:|:-----:|:---------:|:--------:|
@@ -326,25 +279,6 @@ cargo test p001 -- --nocapture
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/better-solution`)
-3. **Commit** your changes (`git commit -m 'Add optimized solution for problem X'`)
-4. **Push** to the branch (`git push origin feature/better-solution`)
-5. **Open** a Pull Request
-
-### Contribution Guidelines
-
-- Follow Rust naming conventions and idioms
-- Include test cases for your solutions
-- Add complexity analysis in comments
-- Keep code clean and well-documented
-
----
-
 ## 📚 Resources
 
 | Resource | Description |
@@ -354,23 +288,4 @@ Contributions are welcome! Here's how you can help:
 | [Rust by Example](https://doc.rust-lang.org/rust-by-example/) | Learn Rust with examples |
 | [Rust Playground](https://play.rust-lang.org/) | Online Rust compiler |
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-
-### ⭐ Star this repo if you find it helpful!
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/aarambhdevhub)
-
-Created by **[Darshan Vichhi](https://github.com/aarambh-darshan)** 🦀❤️
-
-*Fork it. Solve it. Master it. No AI allowed!*
-
-</div>
 

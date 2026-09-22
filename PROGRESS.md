@@ -1,16 +1,5 @@
 # 📊 Progress Tracker
 
-Track your progress as you solve each problem. Update this file as you complete solutions!
-
-## How to Use
-
-1. **Fork** this repository
-2. **Solve** each problem on your own (no AI assistance!)
-3. **Mark** problems as completed below
-4. **Commit** your progress
-
----
-
 ## 🟢 Beginner (1-35)
 
 ### Basic Syntax & Math (1-15)
