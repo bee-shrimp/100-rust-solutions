@@ -6,7 +6,7 @@
 **My personal solutions for the [100 Rust Interview Problems](https://github.com/aarambh-darshan/100-rust-problems) by [Darshan Vichhi](https://github.com/aarambh-darshan)**
 
 
-[📚 Problems](#-problem-categories) • [🚀Running Solutions](#-running-solutions) • [� Progress](#-progress-tracker) • [🤝 Contributing](#-contributing)
+[📚 Problems](#-problem-categories) • [🚀Running Solutions](#-running-solutions) • [� Progress](#-progress-tracker)
 
 </div>
 
