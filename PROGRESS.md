@@ -21,12 +21,12 @@
 
 ### Arrays & Strings (16-35)
 - [x] 016 - Reverse Integer
-- [ ] 017 - Count Vowels
-- [ ] 018 - Remove Duplicates from Sorted Array
-- [ ] 019 - Merge Two Sorted Arrays
-- [ ] 020 - Valid Parentheses
-- [ ] 021 - Plus One
-- [ ] 022 - Sqrt(x)
+- [x] 017 - Count Vowels
+- [x] 018 - Remove Duplicates from Sorted Array
+- [x] 019 - Merge Two Sorted Arrays (need revisit)
+- [x] 020 - Valid Parentheses
+- [x] 021 - Plus One
+- [x] 022 - Sqrt(x)
 - [ ] 023 - Climbing Stairs
 - [ ] 024 - Remove Element
 - [ ] 025 - Search Insert Position
